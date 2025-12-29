@@ -1,16 +1,16 @@
 .stApp{
     background : linear-gradient(
         135deg,
-        #f8f8fc 0%,
-        #e1e0fe 50%,
-        #f3f1f9 100%
+        #fcf9f8 0%,
+        #fee8e0 50%,
+        #f9f3f1 100%
     );
     min-height : 100vh;
     font-family : 'Segoe UI', sans-serif;
 }
 
 .card {
-    background-color : #f7f4bb;
+    background-color : #f7e9bb;
     padding : 25px;
     border-radius : 16px;
     box-shadow : 0 8px 20px rgba(0, 0, 0, 0.08);
