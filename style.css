@@ -1,9 +1,9 @@
 .stApp{
     background : linear-gradient(
         135deg,
-        #f8fafc 0%,
-        #e0ecfe 50%,
-        #f1f3f9 100%
+        #f8f8fc 0%,
+        #e1e0fe 50%,
+        #f3f1f9 100%
     );
     min-height : 100vh;
     font-family : 'Segoe UI', sans-serif;
